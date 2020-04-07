@@ -1,0 +1,18 @@
+From: User2 <User2@pop3.example>
+To: User1 <User1@pop3.example>
+Subject:First Mail
+Date: 24\02\2020
+MessageID: 01@local.machine.example
+Bonjour
+Essai de message sur le serveur
+Tout fonctionne
+.
+From: User3 <User3@pop3.example>
+To: User1 <User1@pop3.example>
+Subject:First Mail
+Date: 24\02\2020
+MessageID: 01@local.machine.example
+Bonjour
+Tout semble fonctionner
+Parfait
+.
